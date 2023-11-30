@@ -1,10 +1,10 @@
 .header {
-  background: linear-gradient(to right, #ff6000 0%, #ffa559 100%);
-  box-shadow: 0 0 20px #353535;
+  background: linear-gradient(to right, #176b87 0%, #64ccc5 100%);
+  box-shadow: 0 0 20px #dafffb;
   border-radius: 30px;
   border-width: 0px;
-  width: 300px;
-  height: 45px;
+  width: calc(10px + 2vmin);
+  height: calc(10px + 2vmin);
   margin-top: 10px;
   margin-bottom: 40px;
   align-self: center;
@@ -20,4 +20,9 @@
   border-color: #e74646;
   border-radius: 5px;
   border-width: 25px;
+}
+
+.title {
+  font-size: calc(10px + 2vmin);
+  color: #dafffb;
 }
