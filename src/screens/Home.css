@@ -3,12 +3,11 @@
   box-shadow: 0 0 20px #dafffb;
   border-radius: 30px;
   border-width: 0px;
-  width: calc(10px + 2vmin);
-  height: calc(10px + 2vmin);
+  width: 300px;
+  height: 45px;
   margin-top: 10px;
   margin-bottom: 40px;
   align-self: center;
-  cursor: pointer;
 }
 
 .container {
@@ -17,7 +16,6 @@
   flex-direction: column;
   min-height: 100vh;
 
-  border-color: #e74646;
   border-radius: 5px;
   border-width: 25px;
 }

@@ -11,12 +11,18 @@ function Home() {
         <div className="header">
           <buttorn className="title">Chemical</buttorn>
         </div>
+      </a>
+      <a href="/game2">
         <div className="header">
           <buttorn className="title">Electrical</buttorn>
         </div>
+      </a>
+      <a href="/game3">
         <div className="header">
           <buttorn className="title">Radioenergy</buttorn>
         </div>
+      </a>
+      <a href="/game4">
         <div className="header">
           <buttorn className="title">Genetics</buttorn>
         </div>
